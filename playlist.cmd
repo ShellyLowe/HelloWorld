@@ -1,5 +1,5 @@
 @echo off
-rem creates a playlist
+rem creates a playlist with files in the given path
 
 echo %1 path name
 
